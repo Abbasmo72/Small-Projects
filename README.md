@@ -1,4 +1,4 @@
-# Country-Info-Finder
+# Country Info Finder
 A small program using the Python programming language for information about countries
 Analysis of the Country Information Program Using CountryInfo for GitHub
 This Python program uses the CountryInfo module to retrieve and display various details about a specific country entered by the user. The program interacts with the user, requesting a country name as input, and then fetches relevant data such as capital, population, region, and more. Here's a detailed analysis of the program:

@@ -15,7 +15,7 @@ This code is a simple Python program designed to fetch and display the user's pu
 6. Running the Program:
    - The if __name__ == "__main__": block ensures that the get_public_ip function is executed only when the script is run directly, not when imported as a module
 
-## Features of the Code:
+## Features of the Code
 1. Simplicity:
    - The code is concise, easy to understand, and uses Python's standard library.
 2. Using a Free API:

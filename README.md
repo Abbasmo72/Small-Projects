@@ -35,13 +35,13 @@ To view the file <b>[English README.md](SmallProjects/FileOperations/CeratePDF/C
 <hr>
 
 # Tools
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+1. <b>Cal Viewer :</b
+2. <b>Country Info Finder :</b
+3. <b>Daily Tasker :</b
+4. <b>Data Faker :</b
+5. <b>Easy Pad :</b
+6. <b>Planet Tracker :</b
+7. <b>QR code :</b
+8. <b>Time Code :</b
    
 <hr>

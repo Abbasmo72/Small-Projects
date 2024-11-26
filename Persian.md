@@ -13,5 +13,5 @@
 ## عملیات روی فایل
 1. این کد یک برنامه گرافیکی با استفاده از کتابخانه Tkinter در پایتون ایجاد می‌کند که امکان تولید فایل‌های PDF را فراهم می‌سازد. کاربر می‌تواند متن دلخواه خود را در جعبه متنی وارد کرده و با فشردن دکمه، فایل PDF خروجی ایجاد کند. برای ایجاد فایل PDF، از کتابخانه ReportLab استفاده شده است که قابلیت پشتیبانی از فونت فارسی را نیز دارد. متن وارد شده در یک جعبه متنی (Text Box) ذخیره شده و خطوط آن در صفحات PDF با مدیریت موقعیت مکانی نوشته می‌شوند. این برنامه برای ساخت اسناد متنی ساده با پشتیبانی از زبان فارسی مناسب است.
 
-برای مشاهده فایل <b>[English README.md](SmallProjects/FileOperations/CeratePDF/CeratePDF_English.md)</b> و <b>[Persian README.md](SmallProjects/FileOperations/CeratePDF/CeratePDF_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/FileOperations/CeratePDF/PDF_English.py)</b>.
+برای مشاهده فایل <b>[English README.md](SmallProjects/FileOperations/CeratePDF/CeratePDF_English.md)</b> و <b>[Persian README.md](SmallProjects/FileOperations/CeratePDF/CeratePDF_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/FileOperations/CeratePDF/PDF_Persian.py)</b>.
 <hr>

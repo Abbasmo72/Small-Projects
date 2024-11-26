@@ -15,5 +15,5 @@
 1. Cerate PDF:
 This code creates a graphical application using the Tkinter library in Python, allowing users to generate PDF files. Users can input their desired text into a text box, and by clicking a button, the program generates a PDF file. The ReportLab library is utilized to create the PDF, with support for Persian fonts. The entered text is retrieved from the text box and written line by line into the PDF, managing page positions dynamically. This program is suitable for creating simple textual documents with Persian language support.
 
-To view the file <b>[English README.md](SmallProjects/FileOperations/CeratePDF/CeratePDF_English.md)</b> and <b>[Persian README.md](FileOperations/CeratePDF/CeratePDF_Persian.md)</b> And the complete code <b>[Python Code](Small-Projects/FileOperations/CeratePDF/CeratePDF_English.py)</b>.
+To view the file <b>[English README.md](SmallProjects/FileOperations/CeratePDF/CeratePDF_English.md)</b> and <b>[Persian README.md](SmallProjects/FileOperations/CeratePDF/CeratePDF_Persian.md)</b> And the complete code <b>[Python Code](Small-Projects/FileOperations/CeratePDF/CeratePDF_English.py)</b>.
 <hr>

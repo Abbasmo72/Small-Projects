@@ -23,7 +23,9 @@ To view the file <b>[English README.md](SmallProjects/FileOperations/ChekCodePyt
 <hr>
 
 # Network Utilities
-1. <b>Get IP :</b>
+1. <b>Get IP :</b> This Python code is designed to fetch and display the user's public IP address. It uses the urllib.request library to send a request to the ipify API service, retrieving the user's IP in text format. If the request is successful, the public IP is printed to the console. In case of any error, an appropriate error message is displayed. The script is executable as a standalone program, controlled through the if __name__ == "__main__": block.<br>
+To view the file <b>[English README.md](SmallProjects/NetworkUtilities/GetIP/GetIP_English.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/GetIP/GetIP_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/GetIP/GetIP_English.py)</b>.
+
 2. <b>SSL Shield :</b>
 <hr>
 

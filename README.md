@@ -40,13 +40,13 @@ To view the file <b>[English README.md](SmallProjects/NetworkUtilities/GetIP/Get
 <hr>
 
 # Tools
-1. <b>Cal Viewer :</b
-2. <b>Country Info Finder :</b
+1. <b>Cal Viewer :</b>
+2. <b>Country Info Finder :</b>
 3. <b>Daily Tasker :</b
-4. <b>Data Faker :</b
-5. <b>Easy Pad :</b
+4. <b>Data Faker :</b>
+5. <b>Easy Pad :</b>
 6. <b>Planet Tracker :</b
-7. <b>QR code :</b
-8. <b>Time Code :</b
+7. <b>QR code :</b>
+8. <b>Time Code :</b>
    
 <hr>

@@ -17,3 +17,8 @@
 برای مشاهده فایل <b>[English README.md](SmallProjects/FileOperations/ChekCodePython/CodeCheker_English.md)</b> و <b>[Persian README.md](SmallProjects/FileOperations/ChekCodePython/CodeCheker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/FileOperations/ChekCodePython/CodeCheker_Persian.py)</b>.
 
 <hr>
+
+## ابزارهای شبکه
+1. پیدا کردن IP: این کد به زبان پایتون نوشته شده و برای دریافت و نمایش آدرس IP عمومی کاربر طراحی شده است. با استفاده از کتابخانه urllib.request، یک درخواست به API سرویس ipify ارسال می‌شود تا آدرس IP کاربر بازیابی شود. در صورت موفقیت، آدرس IP دریافت شده به صورت متنی چاپ می‌شود. در صورتی که خطایی رخ دهد، پیام خطا نمایش داده خواهد شد. این کد قابلیت اجرا به صورت مستقل را دارد و عملکرد آن از طریق بخش if __name__ == "__main__": تضمین می‌شود.<br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/NetworkUtilities/GetIP/GetIP_English.md)</b> و <b>[Persian README.md](SmallProjects/NetworkUtilities/GetIP/GetIP_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/NetworkUtilities/GetIP/GetIP_Persian.py)</b>.
+2. 

@@ -27,7 +27,7 @@ To view the file <b>[English README.md](SmallProjects/FileOperations/ChekCodePyt
 To view the file <b>[English README.md](SmallProjects/NetworkUtilities/GetIP/GetIP_English.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/GetIP/GetIP_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/GetIP/GetIP_English.py)</b>.
 
 2. <b>SSL Shield :</b>The above code defines a function named is_secure_website that checks whether a website is secure using HTTPS. The function sends an HTTP request to the provided URL using the requests library and validates the certificate with the help of the certifi library. If the request is successful and the URL starts with https, the website is considered secure. In case of any errors, such as an invalid URL or connection issues, the website is deemed insecure. Finally, the user can input a website URL and see the result printed on the console.<br>
-To view the file <b>[English README.md](SmallProjects/NetworkUtilities/SSLShield/SSLShield_ٍEnglish.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/SSLShield/SSLShield_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/SSLShield_ٍEnglish.py)</b>.
+To view the file <b>[English README.md](SmallProjects/NetworkUtilities/SSLShield/SSLShield_ٍEnglish.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/SSLShield/SSLShield_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/SSLShield/SSLShield_ٍEnglish.py)</b>.
 <hr>
 
 # System Oprations

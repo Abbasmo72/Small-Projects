@@ -31,10 +31,11 @@ To view the file <b>[English README.md](SmallProjects/NetworkUtilities/SSLShield
 <hr>
 
 # System Oprations
-1. <b>Alarm Battrey :</b>
+1. <b>Alarm Battrey :</b>The program uses the psutil and pygame libraries to monitor the battery status and power connection, playing an alert if necessary. The pygame.mixer.init initializes the sound playback setup. In an infinite loop, the program checks the battery and power connection status; if the power is disconnected, it continuously plays the sg.mp3 sound file. When the power is reconnected, the alarm playback stops. The status is checked every second.<br>
+To view the file <b>[English README.md](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍEnglish.md)</b> and <b>[Persian README.md](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍPersian.md)</b> And the complete code <b>[Python Code](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍEnglish.py)</b>.
 2. <b>Battery Monitor :</b>
 
-
+<hr>
 # Web Scripts
 1. <b>Find Table :</b>
 

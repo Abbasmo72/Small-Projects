@@ -27,5 +27,5 @@
 
 ## عملیات سیستم
 1. آلارم باطری: برنامه با استفاده از کتابخانه‌های psutil و pygame، وضعیت باتری و اتصال دستگاه به برق را بررسی کرده و در صورت نیاز آلارم پخش می‌کند. با دستور pygame.mixer.init تنظیمات پخش صدا آماده‌سازی می‌شود. در یک حلقه بی‌نهایت، برنامه وضعیت باتری و اتصال برق را بررسی می‌کند و در صورت قطع اتصال، فایل صوتی sg.mp3 به صورت مداوم پخش می‌شود. اگر دستگاه مجدداً به برق متصل شود، پخش آلارم متوقف می‌شود. بررسی وضعیت هر ثانیه یک بار انجام می‌گیرد.<br>
-برای مشاهده فایل <b>[English README.md](SmallProjects/NetworkUtilities/SystemOprations/AlarmBattrey/AllarmBattery_ٍEnglish.md)</b> و <b>[Persian README.md](SmallProjects/NetworkUtilities/SystemOprations/AlarmBattrey/AllarmBattery_ٍPersian.md)</b> و کد کامل <b>[Python Code](SmallProjects/NetworkUtilities/SystemOprations/AlarmBattrey/AllarmBattery_ٍPersian.py)</b>.
+برای مشاهده فایل <b>[English README.md](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍEnglish.md)</b> و <b>[Persian README.md](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍPersian.md)</b> و کد کامل <b>[Python Code](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍPersian.py)</b>.
 2. دیدن باطری: 

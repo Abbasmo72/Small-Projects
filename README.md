@@ -36,6 +36,7 @@ To view the file <b>[English README.md](SmallProjects/SystemOprations/AlarmBattr
 2. <b>Battery Monitor :</b>The code first retrieves battery information using the psutil.sensors_battery() function and checks if the information is available. If battery data exists, it prints the battery percentage and whether the device is plugged into power. A function named convertTime is defined to convert the remaining battery time from seconds to the format hours:minutes:seconds. The remaining battery time is then displayed using this function. If no battery information is available, it prints "No battery information available."<br>
 To view the file <b>[English README.md](SmallProjects/SystemOprations/BatteryMonitor/BatteryMonitor_English.md)</b> and <b>[Persian README.md](SmallProjects/SystemOprations/BatteryMonitor/BatteryMonitor_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/SystemOprations/BatteryMonitor/BatteryMonitor_English.py)</b>.
 <hr>
+
 # Web Scripts
 1. <b>Find Table :</b>
 

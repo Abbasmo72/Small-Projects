@@ -28,4 +28,9 @@
 ## عملیات سیستم
 1. آلارم باطری: برنامه با استفاده از کتابخانه‌های psutil و pygame، وضعیت باتری و اتصال دستگاه به برق را بررسی کرده و در صورت نیاز آلارم پخش می‌کند. با دستور pygame.mixer.init تنظیمات پخش صدا آماده‌سازی می‌شود. در یک حلقه بی‌نهایت، برنامه وضعیت باتری و اتصال برق را بررسی می‌کند و در صورت قطع اتصال، فایل صوتی sg.mp3 به صورت مداوم پخش می‌شود. اگر دستگاه مجدداً به برق متصل شود، پخش آلارم متوقف می‌شود. بررسی وضعیت هر ثانیه یک بار انجام می‌گیرد.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍEnglish.md)</b> و <b>[Persian README.md](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍPersian.md)</b> و کد کامل <b>[Python Code](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍPersian.py)</b>.
-2. دیدن باطری: 
+2. دیدن باطری: کد ابتدا با استفاده از تابع psutil.sensors_battery() اطلاعات مربوط به باتری را دریافت می‌کند و بررسی می‌کند که آیا این اطلاعات موجود است یا خیر. اگر اطلاعات باتری وجود داشته باشد، درصد شارژ باتری و وضعیت اتصال به برق را چاپ می‌کند. سپس تابعی به نام convertTime تعریف می‌شود که زمان باقی‌مانده باتری را از واحد ثانیه به فرمت ساعت:دقیقه:ثانیه تبدیل می‌کند. در ادامه، زمان باقی‌مانده باتری با استفاده از این تابع نمایش داده می‌شود. اگر اطلاعات باتری در دسترس نباشد، پیام "No battery information available." چاپ می‌شود.<br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/SystemOprations/BatteryMonitor/BatteryMonitor_English.md)</b> و <b>[Persian README.md](SmallProjects/SystemOprations/BatteryMonitor/BatteryMonitor_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/SystemOprations/BatteryMonitor/BatteryMonitor_Persian.py)</b>.
+
+<hr>
+
+##

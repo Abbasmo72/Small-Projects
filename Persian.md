@@ -39,7 +39,8 @@
 <hr>
 
 ## دست افزار
-1. نمایش تاریخ:
+1. نمایش تاریخ:این کد از کاربر می‌خواهد تا سال و ماه مورد نظر را وارد کند و سپس یک شیء از کلاس TextCalendar با شروع هفته از روز یکشنبه ایجاد می‌کند. با استفاده از متد formatmonth، تقویم ماهانه به صورت متنی تولید می‌شود و در نهایت تقویم تولید شده برای مشاهده کاربر چاپ می‌گردد. تابع display_calendar برای اجرای کل فرآیند فراخوانی می‌شود.<br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_Persian.py)</b>.
 2. پیداکردن اطلاعات کشورها:
 3. وظیفه روزانه:
 4. جعل داده ها:

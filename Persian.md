@@ -36,4 +36,15 @@
 ## اسکریپت های وب
 1. اسخراج جداول(از هر سایت با فرمت CSV): این کد یک ابزار وب‌اسکرپینگ ساده است که با استفاده از کتابخانه‌های پایتون مانند requests، BeautifulSoup و pandas، اطلاعات موجود در جداول یک وبسایت را استخراج می‌کند. ابتدا، با استفاده از requests.get محتوای HTML صفحه را دریافت می‌کند. سپس با BeautifulSoup این محتوا تجزیه شده و جداول دارای کلاس wikitable شناسایی می‌شوند. هر جدول استخراج شده به کمک pandas.read_html به یک DataFrame تبدیل می‌شود. در نهایت، این جداول می‌توانند برای تحلیل‌های بیشتر به فایل‌های CSV تبدیل شوند. این کد برای جمع‌آوری داده‌های ساختارمند از صفحات وب بسیار کاربردی است.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/WebScripts/FindTable/FindTable_English.md)</b> و <b>[Persian README.md](SmallProjects/WebScripts/FindTable/FindTable_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/WebScripts/FindTable/FindTable_Persian.py)</b>.
+<hr>
 
+## دست افزار
+1. نمایش تاریخ:
+2. پیداکردن اطلاعات کشورها:
+3. وظیفه روزانه:
+4. جعل داده ها:
+5. یادداشت ساده:
+6. ردیاب سیاره:
+7. ساخت QR Code:
+8. زمان اجرای کد:
+<hr>

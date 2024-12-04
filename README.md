@@ -47,7 +47,9 @@ To view the file <b>[English README.md](SmallProjects/WebScripts/FindTable/FindT
 1. <b>Cal Viewer :</b> This code prompts the user to enter the desired year and month, then creates an object of the TextCalendar class with the week starting on Sunday. Using the formatmonth method, it generates a textual calendar for the specified month. Finally, the generated calendar is printed for the user to view. The display_calendar function is called to execute the entire process.<br>
 To view the file <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_English.py)
 
-2. <b>Country Info Finder :</b>
+2. <b>Country Info Finder :</b>This code uses the countryinfo library to provide detailed information about a country. It first takes the country name as input from the user and then retrieves various details, including the capital, population, area, geographical region, languages, currency, and neighboring countries, displaying the information in a readable format.<br>
+To view the file <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_English.py)
+
 3. <b>Daily Tasker :</b>
 4. <b>Data Faker :</b>
 5. <b>Easy Pad :</b>

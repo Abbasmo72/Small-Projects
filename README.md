@@ -33,7 +33,8 @@ To view the file <b>[English README.md](SmallProjects/NetworkUtilities/SSLShield
 # System Oprations
 1. <b>Alarm Battrey :</b>The program uses the psutil and pygame libraries to monitor the battery status and power connection, playing an alert if necessary. The pygame.mixer.init initializes the sound playback setup. In an infinite loop, the program checks the battery and power connection status; if the power is disconnected, it continuously plays the sg.mp3 sound file. When the power is reconnected, the alarm playback stops. The status is checked every second.<br>
 To view the file <b>[English README.md](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍEnglish.md)</b> and <b>[Persian README.md](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍPersian.md)</b> And the complete code <b>[Python Code](SmallProjects/SystemOprations/AlarmBattrey/AllarmBattery_ٍEnglish.py)</b>.
-2. <b>Battery Monitor :</b>The code first retrieves battery information using the psutil.sensors_battery() function and checks if the information is available. If battery data exists, it prints the battery percentage and whether the device is plugged into power. A function named convertTime is defined to convert the remaining battery time from seconds to the format hours:minutes:seconds. The remaining battery time is then displayed using this function. If no battery information is available, it prints "No battery information available."<br>
+
+3. <b>Battery Monitor :</b>The code first retrieves battery information using the psutil.sensors_battery() function and checks if the information is available. If battery data exists, it prints the battery percentage and whether the device is plugged into power. A function named convertTime is defined to convert the remaining battery time from seconds to the format hours:minutes:seconds. The remaining battery time is then displayed using this function. If no battery information is available, it prints "No battery information available."<br>
 To view the file <b>[English README.md](SmallProjects/SystemOprations/BatteryMonitor/BatteryMonitor_English.md)</b> and <b>[Persian README.md](SmallProjects/SystemOprations/BatteryMonitor/BatteryMonitor_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/SystemOprations/BatteryMonitor/BatteryMonitor_English.py)</b>.
 <hr>
 
@@ -45,6 +46,7 @@ To view the file <b>[English README.md](SmallProjects/WebScripts/FindTable/FindT
 # Tools
 1. <b>Cal Viewer :</b> This code prompts the user to enter the desired year and month, then creates an object of the TextCalendar class with the week starting on Sunday. Using the formatmonth method, it generates a textual calendar for the specified month. Finally, the generated calendar is printed for the user to view. The display_calendar function is called to execute the entire process.<br>
 To view the file <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_English.py)
+
 2. <b>Country Info Finder :</b>
 3. <b>Daily Tasker :</b>
 4. <b>Data Faker :</b>

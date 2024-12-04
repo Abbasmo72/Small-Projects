@@ -40,15 +40,15 @@ To view the file <b>[English README.md](SmallProjects/SystemOprations/BatteryMon
 
 # Web Scripts
 1. <b>Find Table :</b> This code is a simple web scraping tool that uses Python libraries like requests, BeautifulSoup, and pandas to extract table data from a website. First, it fetches the HTML content of a webpage using requests.get. Then, it parses the content with BeautifulSoup to identify tables with the class wikitable. Each extracted table is converted into a DataFrame using pandas.read_html. Finally, these tables can be saved as CSV files for further analysis. This code is highly useful for collecting structured data from web pages.<br>
-To view the file <b>[English README.md](SmallProjects/WebScripts/FindTable/FindTable_English.md)</b> and <b>[Persian README.md](SmallProjects/WebScripts/FindTable/FindTable_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/WebScripts/FindTable/FindTable_English.py)
+To view the file <b>[English README.md](SmallProjects/WebScripts/FindTable/FindTable_English.md)</b> and <b>[Persian README.md](SmallProjects/WebScripts/FindTable/FindTable_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/WebScripts/FindTable/FindTable_English.py)</b>.
 <hr>
 
 # Tools
 1. <b>Cal Viewer :</b> This code prompts the user to enter the desired year and month, then creates an object of the TextCalendar class with the week starting on Sunday. Using the formatmonth method, it generates a textual calendar for the specified month. Finally, the generated calendar is printed for the user to view. The display_calendar function is called to execute the entire process.<br>
-To view the file <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_English.py)
+To view the file <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_English.py)</b>.
 
 2. <b>Country Info Finder :</b>This code uses the countryinfo library to provide detailed information about a country. It first takes the country name as input from the user and then retrieves various details, including the capital, population, area, geographical region, languages, currency, and neighboring countries, displaying the information in a readable format.<br>
-To view the file <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_English.py)
+To view the file <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_English.py)</b>.
 
 3. <b>Daily Tasker :</b>
 4. <b>Data Faker :</b>

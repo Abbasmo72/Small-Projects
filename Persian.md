@@ -42,7 +42,7 @@
 1. نمایش تاریخ: این کد از کاربر می‌خواهد تا سال و ماه مورد نظر را وارد کند و سپس یک شیء از کلاس TextCalendar با شروع هفته از روز یکشنبه ایجاد می‌کند. با استفاده از متد formatmonth، تقویم ماهانه به صورت متنی تولید می‌شود و در نهایت تقویم تولید شده برای مشاهده کاربر چاپ می‌گردد. تابع display_calendar برای اجرای کل فرآیند فراخوانی می‌شود.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_Persian.py)</b>.
 2. پیداکردن اطلاعات کشورها: این کد با استفاده از کتابخانه countryinfo اطلاعات جامعی درباره یک کشور ارائه می‌دهد. ابتدا نام کشور را از کاربر دریافت می‌کند و سپس اطلاعات مختلف از جمله پایتخت، جمعیت، مساحت، منطقه جغرافیایی، زبان‌ها، واحد پول و کشورهای همسایه را از کتابخانه بازیابی کرده و به صورت چاپ شده نمایش می‌دهد.<br>
-برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/CountryInfoFinder_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/CountryInfoFinder_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/CountryInfoFinder_Persian.py)</b>.
+برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_Persian.py)</b>.
 3. وظیفه روزانه: 
 4. جعل داده ها: 
 5. یادداشت ساده: 

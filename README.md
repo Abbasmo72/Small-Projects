@@ -50,7 +50,8 @@ To view the file <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_
 2. <b>Country Info Finder :</b>This code uses the countryinfo library to provide detailed information about a country. It first takes the country name as input from the user and then retrieves various details, including the capital, population, area, geographical region, languages, currency, and neighboring countries, displaying the information in a readable format.<br>
 To view the file <b>[English README.md](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_English.py)</b>.
 
-3. <b>Daily Tasker :</b>
+3. <b>Daily Tasker :</b>This program is a simple task manager that stores tasks in a JSON file and allows adding new tasks with a name, due date, and completion status. Users can view all tasks, update their completion status, and delete tasks if needed. Changes are automatically saved to the file, and the program is managed through a main menu offering various options for task operations.<br>
+To view the file <b>[English README.md](SmallProjects/Tools/DailyTasker/DailyTasker_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/DailyTasker/DailyTasker_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/DailyTasker/DailyTasker_English.py)</b>.
 4. <b>Data Faker :</b>
 5. <b>Easy Pad :</b>
 6. <b>Planet Tracker :</b>

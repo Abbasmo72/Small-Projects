@@ -47,7 +47,9 @@
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/DailyTasker/DailyTasker_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/DailyTasker/DailyTasker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/DailyTasker/DailyTasker_Persian.py)</b>.
 4. جعل داده ها: این کد با استفاده از کتابخانه Faker داده‌های ساختگی مختلفی مانند نام، آدرس، متن، ایمیل، کشور، مختصات جغرافیایی و URL تولید و چاپ می‌کند. این ابزار برای تست و شبیه‌سازی در پروژه‌های نرم‌افزاری مفید است.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/DataFaker/DataFaker_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/DataFaker/DataFaker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/DataFaker/DataFaker_Persian.py)</b>.
-5. یادداشت ساده: 
+5. یادداشت ساده: این برنامه یک اپلیکیشن یادداشت‌برداری ساده است که از فایل notes.txt برای ذخیره و مدیریت یادداشت‌ها استفاده می‌کند. کاربر می‌تواند یادداشت جدید اضافه کند، یادداشت‌های موجود را مشاهده کند یا یک یادداشت را حذف کند. یادداشت‌ها در یک حلقه منو تعاملی مدیریت می‌شوند و تغییرات در فایل ذخیره می‌شوند. اگر فایل یادداشت وجود نداشته باشد، برنامه آن را ایجاد می‌کند. گزینه‌های موجود شامل اضافه کردن، مشاهده، حذف و خروج از برنامه هستند. <br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/EasyPad/EasyPad_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/EasyPad/EasyPad_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/EasyPad/EasyPad_Persian.py)</b>.
+
 6. ردیاب سیاره: 
 7. ساخت QR Code: 
 8. زمان اجرای کد: 

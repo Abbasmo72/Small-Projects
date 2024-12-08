@@ -52,7 +52,8 @@ To view the file <b>[English README.md](SmallProjects/Tools/CountryInfoFinder/Co
 
 3. <b>Daily Tasker :</b>This program is a simple task manager that stores tasks in a JSON file and allows adding new tasks with a name, due date, and completion status. Users can view all tasks, update their completion status, and delete tasks if needed. Changes are automatically saved to the file, and the program is managed through a main menu offering various options for task operations.<br>
 To view the file <b>[English README.md](SmallProjects/Tools/DailyTasker/DailyTasker_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/DailyTasker/DailyTasker_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/DailyTasker/DailyTasker_English.py)</b>.
-4. <b>Data Faker :</b>
+4. <b>Data Faker :</b>This code uses the Faker library to generate and print random fake data such as name, address, text, email, country, geographic coordinates, and URL. It's useful for testing and simulation in software projects.</br>
+To view the file <b>[English README.md](SmallProjects/Tools/DataFaker/DataFaker_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/DataFaker/DataFaker_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/DataFaker/DataFaker_English.py)</b>.
 5. <b>Easy Pad :</b>
 6. <b>Planet Tracker :</b>
 7. <b>QR code :</b>

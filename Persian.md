@@ -45,7 +45,8 @@
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_Persian.py)</b>.
 3. وظیفه روزانه: این برنامه یک مدیریت‌کننده وظایف ساده است که وظایف را در یک فایل JSON ذخیره می‌کند و امکان افزودن وظایف جدید شامل نام، تاریخ سررسید و وضعیت تکمیل را فراهم می‌کند. کاربر می‌تواند تمامی وظایف را مشاهده کرده، وضعیت تکمیل آن‌ها را تغییر دهد و در صورت نیاز وظایف را حذف کند. تغییرات اعمال‌شده به صورت خودکار در فایل ذخیره می‌شوند و برنامه از طریق یک منوی اصلی مدیریت می‌شود که گزینه‌های مختلفی را برای عملیات روی وظایف ارائه می‌دهد.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/DailyTasker/DailyTasker_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/DailyTasker/DailyTasker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/DailyTasker/DailyTasker_Persian.py)</b>.
-4. جعل داده ها: 
+4. جعل داده ها: این کد با استفاده از کتابخانه Faker داده‌های ساختگی مختلفی مانند نام، آدرس، متن، ایمیل، کشور، مختصات جغرافیایی و URL تولید و چاپ می‌کند. این ابزار برای تست و شبیه‌سازی در پروژه‌های نرم‌افزاری مفید است.<br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/DataFaker/DataFaker_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/DataFaker/DataFaker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/DataFaker/DataFaker_Persian.py)</b>.
 5. یادداشت ساده: 
 6. ردیاب سیاره: 
 7. ساخت QR Code: 

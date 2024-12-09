@@ -56,7 +56,8 @@ To view the file <b>[English README.md](SmallProjects/Tools/DailyTasker/DailyTas
 To view the file <b>[English README.md](SmallProjects/Tools/DataFaker/DataFaker_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/DataFaker/DataFaker_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/DataFaker/DataFaker_English.py)</b>.
 5. <b>Easy Pad :</b>This program is a simple note-taking application that uses the notes.txt file to store and manage notes. Users can add new notes, view existing ones, or delete specific notes. The notes are managed interactively through a menu loop, and changes are saved to the file. If the notes file does not exist, the program creates it automatically. Available options include adding, viewing, deleting notes, and exiting the program.<br>
 To view the file <b>[English README.md](SmallProjects/Tools/EasyPad/EasyPad_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/EasyPad/EasyPad_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/EasyPad/EasyPad_English.py)</b>.
-6. <b>Planet Tracker :</b>
+6. <b>Planet Tracker :</b>This code calculates and displays the position of a planet relative to the Greenwich Observatory's location at the current time using Astropy modules. By receiving the planet's name from the user, it provides the planet's position in terms of Right Ascension (RA) and Declination (Dec).<br>
+To view the file <b>[English README.md](SmallProjects/Tools/PlanetTracker/PlanetTracker_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/PlanetTracker/PlanetTracker_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/PlanetTracker/PlanetTracker_English.py)</b>.
 7. <b>QR code :</b>
 8. <b>Time Code :</b>
    

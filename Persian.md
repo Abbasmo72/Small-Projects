@@ -49,10 +49,9 @@
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/DataFaker/DataFaker_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/DataFaker/DataFaker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/DataFaker/DataFaker_Persian.py)</b>.
 5. یادداشت ساده: این برنامه یک اپلیکیشن یادداشت‌برداری ساده است که از فایل notes.txt برای ذخیره و مدیریت یادداشت‌ها استفاده می‌کند. کاربر می‌تواند یادداشت جدید اضافه کند، یادداشت‌های موجود را مشاهده کند یا یک یادداشت را حذف کند. یادداشت‌ها در یک حلقه منو تعاملی مدیریت می‌شوند و تغییرات در فایل ذخیره می‌شوند. اگر فایل یادداشت وجود نداشته باشد، برنامه آن را ایجاد می‌کند. گزینه‌های موجود شامل اضافه کردن، مشاهده، حذف و خروج از برنامه هستند. <br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/EasyPad/EasyPad_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/EasyPad/EasyPad_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/EasyPad/EasyPad_Persian.py)</b>.
-
 6. ردیاب سیاره: این کد موقعیت یک سیاره را نسبت به مکان رصدخانه گرینویچ در زمان فعلی با استفاده از ماژول‌های Astropy محاسبه و نمایش می‌دهد با دریافت نام سیاره از کاربر، موقعیت سیاره به صورت صعود مستقیم (RA) و میل (Dec) ارائه می‌شود.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/PlanetTracker/PlanetTracker_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/PlanetTracker/PlanetTracker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/PlanetTracker/PlanetTracker_Persian.py)</b>.
-
-7. ساخت QR Code: 
+7. ساخت QR Code: این کد یک برنامه ساده به زبان پایتون برای تولید کد QR از یک آدرس وب است. ابتدا از کاربر خواسته می‌شود که آدرس وبسایت (بدون پیشوند http یا https) را وارد کند. سپس، کد به‌طور خودکار پیشوند https:// را به آدرس اضافه می‌کند تا یک URL معتبر ایجاد شود. با استفاده از ماژول qrcode، کد QR مربوط به این آدرس تولید شده و به کاربر نمایش داده می‌شود. همچنین، این کد QR به صورت یک فایل تصویری با فرمت PNG در همان دایرکتوری ذخیره می‌شود و در پایان یک پیام موفقیت به کاربر نمایش داده می‌شود.<br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/QRcode/QRcode_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools//QRcode/QRcode_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/PlanetTracker/QRcode/QRcode_Persian.md)</b>.
 8. زمان اجرای کد: 
 <hr>

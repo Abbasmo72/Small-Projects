@@ -24,3 +24,22 @@ This code is a simple countdown timer in Python that displays the remaining time
 ### Improvements:
    - A graphical user interface (GUI) or an audible alert could be added for better user experience.
    - Input validation for non-numeric or negative values could enhance the program's robustness.
+
+### Python Code
+```python
+import time
+
+def countdown_timer(seconds):
+    while seconds > 0:
+        mins, secs = divmod(seconds, 60)  # Convert seconds to minutes and seconds
+        timer = f"{mins:02d}:{secs:02d}"
+        print(timer, end="\r")  # Display the time on a single line
+        time.sleep(1)  # Wait for one second
+        seconds -= 1
+    
+    print("Time's up!")
+
+# Input the countdown duration (in seconds)
+duration = int(input("Enter the countdown duration (in seconds): "))
+countdown_timer(duration)
+```

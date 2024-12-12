@@ -55,4 +55,6 @@
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/QRcode/QRcode_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/QRcode/QRcode_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/QRcode/QRcode_Persian.md)</b>.
 8. زمان اجرای کد: این کد زمان اجرای یک بخش از کد را با استفاده از ماژول time اندازه‌گیری می‌کند. زمان شروع و پایان ثبت شده و مدت زمان اجرای کد محاسبه و نمایش داده می‌شود.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/TimeCode/TimeCode_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/TimeCode/TimeCode_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/TimeCode/TimeCode_Persian.py)</b>.
+9. زمان سنج: تابع countdown_timer یک شمارش معکوس از ثانیه‌هایی که وارد می‌شود ایجاد می‌کند و در هر ثانیه زمان باقی‌مانده را به فرمت MM:SS نمایش می‌دهد. پس از اتمام زمان، پیغام "Time's up!" را نشان می‌دهد.<br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/Timer/Timer_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/Timer/Timer_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/Timer/Timer_Persian.py)</b>.
 <hr>

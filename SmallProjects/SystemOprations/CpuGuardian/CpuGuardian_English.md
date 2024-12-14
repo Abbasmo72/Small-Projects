@@ -37,3 +37,14 @@ This Python code is designed to monitor CPU usage and take action when it exceed
 - The monitor_cpu method is called to begin continuous monitoring.
 - By default, it checks CPU usage every second and raises an alert if usage exceeds 80%.
 
+## Advantages of the Program
+1. Modularity:
+   - Each method has a distinct responsibility, enhancing readability and maintainability.
+2. Flexibility:
+   - Parameters like max_usage and check_interval can be easily customized.
+3. Detailed Information:
+   - It identifies and displays high CPU-consuming processes with relevant details.
+4. System Interaction:
+   - Leverages the psutil library to manage system processes efficiently.
+
+## 

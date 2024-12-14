@@ -1,4 +1,4 @@
-### Analysis of the CPU Monitoring Code
+## Analysis of the CPU Monitoring Code
 This Python code is designed to monitor CPU usage and take action when it exceeds a defined threshold. Below is a detailed analysis of its structure and functionality:
 
 ## Overall Structure

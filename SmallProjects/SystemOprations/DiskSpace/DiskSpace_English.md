@@ -1,10 +1,12 @@
+## Disk Usage Monitor Using Python and psutil
+
 ## Code Analysis
 The provided Python script uses the psutil library to retrieve and display disk usage information. Here's a detailed analysis:
 
-## The psutil Library
+### The psutil Library
   - psutil is a powerful library for system monitoring and resource management.
   - It provides functionalities for retrieving information about CPU, memory, disk, network, and other system resources.
-## The get_disk_usage() Function
+### The get_disk_usage() Function
 This function collects and displays disk usage information. The key steps are:
 1. psutil.disk_usage('/'):
    - Fetches disk usage statistics for the root directory (/).
@@ -18,11 +20,11 @@ This function collects and displays disk usage information. The key steps are:
 3. Formatted Output:
    - Uses f-strings to print the values with two decimal points for clarity.
 
-## The if __name__ == "__main__": Block
+### The if __name__ == "__main__": Block
 - Ensures that the get_disk_usage() function is executed only when the script is run directly.
 - Prevents execution if the script is imported as a module in another project.
 
-## Input/Output (I/O)
+### Input/Output (I/O)
 - Input: No user input is required.
 - Output: Prints the total, used, free space, and usage percentage to the terminal.
 

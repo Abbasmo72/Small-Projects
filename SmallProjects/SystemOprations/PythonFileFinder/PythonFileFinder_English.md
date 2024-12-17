@@ -3,16 +3,16 @@
 ## Code Analysis
 The above code is a GUI-based Python file search program using the Tkinter library. It allows users to search for Python files (.py) in their system by entering part of the file name. Below is a detailed breakdown of the code's functionality:
 
-## 1. Importing Libraries
+### 1. Importing Libraries
 - os: Used for traversing directories and subdirectories.
 - tkinter and messagebox: Used for building the graphical user interface (GUI) and displaying messages.
 
-## 2. Function: search_files
+### 2. Function: search_files
 - This function searches for files with a specific extension (.py) in a given directory and all its subdirectories.
 - os.walk is used to recursively traverse all directories and files starting from the specified directory.
 - Files that match the given extension are added to the results list, which is returned.
 
-## 3. Function: on_search_button_click
+### 3. Function: on_search_button_click
 - This function is triggered when the Search button is clicked.
 Process:
 1. The user’s input (search term) is retrieved from the Entry widget.
@@ -24,7 +24,7 @@ Process:
    - If matching files are found, the Listbox is cleared, and the new results are displayed.
    - If no files are found, an informational message is shown using messagebox.showinfo.
 
-## 4. GUI Creation
+### 4. GUI Creation
 The GUI is built using the Tkinter library and includes the following components:
 - Label: Displays a prompt for the user to enter the file name.
 - Entry: Input field where the user types part of the file name.
@@ -32,7 +32,7 @@ The GUI is built using the Tkinter library and includes the following components
 - Listbox: Displays the list of matching file paths.
 The pack() geometry manager is used to organize the widgets vertically in the main window.
 
-## 5. Program Execution
+### 5. Program Execution
 - The root.mainloop() function starts the Tkinter event loop, ensuring the GUI remains active until the user closes the window.
 
 ## Overall Functionality:

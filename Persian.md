@@ -23,6 +23,9 @@
 برای مشاهده فایل <b>[English README.md](SmallProjects/NetworkUtilities/GetIP/GetIP_English.md)</b> و <b>[Persian README.md](SmallProjects/NetworkUtilities/GetIP/GetIP_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/NetworkUtilities/GetIP/GetIP_Persian.py)</b>.
 2. کد فوق تابعی به نام is_secure_website تعریف می‌کند که بررسی می‌کند آیا یک وب‌سایت با استفاده از HTTPS امن است یا خیر. این تابع با استفاده از کتابخانه requests، درخواست HTTP به URL داده‌شده ارسال کرده و از گواهینامه‌های معتبر موجود در کتابخانه certifi برای اعتبارسنجی استفاده می‌کند. اگر درخواست موفقیت‌آمیز باشد و URL با https شروع شود، وب‌سایت امن تلقی می‌شود. در صورت بروز هر گونه خطا مانند URL نامعتبر یا مشکل در اتصال، نتیجه به صورت ناامن اعلام می‌شود. در نهایت، کاربر می‌تواند URL یک وب‌سایت را وارد کرده و نتیجه را مشاهده کند.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/NetworkUtilities/SSLShield/SSLShield_ٍEnglish.md)</b> و <b>[Persian README.md](SmallProjects/NetworkUtilities/SSLShield/SSLShield_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/NetworkUtilities/SSLShield/SSLShield_Persian.py)</b>.
+3. اندازه‌گیری پهنای باند شبکه: این کد از کتابخانه psutil برای اندازه‌گیری سرعت دانلود و آپلود شبکه استفاده می‌کند. ابتدا اطلاعات ورودی/خروجی شبکه قبل و بعد از یک ثانیه زمان خواب گرفته می‌شود. سپس سرعت دانلود و آپلود بر حسب کیلوبایت در ثانیه محاسبه شده و نمایش داده می‌شود. در نهایت، زمان صرف شده برای این اندازه‌گیری نیز نمایش می‌یابد. <br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/NetworkUtilities/NetSpeed/NetSpeed_English.md)</b> و <b>[Persian README.md](SmallProjects/NetworkUtilities/NetSpeed/NetSpeed_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/NetworkUtilities/NetSpeed/NetSpeed_Persian.py)</b>.
+
 <hr>
 
 ## عملیات سیستم

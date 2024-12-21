@@ -45,8 +45,10 @@ To view the file <b>[English README.md](SmallProjects/SystemOprations/PythonFile
 <hr>
 
 # Web Scripts
-1. <b>Find Table :</b> This code is a simple web scraping tool that uses Python libraries like requests, BeautifulSoup, and pandas to extract table data from a website. First, it fetches the HTML content of a webpage using requests.get. Then, it parses the content with BeautifulSoup to identify tables with the class wikitable. Each extracted table is converted into a DataFrame using pandas.read_html. Finally, these tables can be saved as CSV files for further analysis. This code is highly useful for collecting structured data from web pages.<br>
+1. <b>Find Table :</b>This code is a simple web scraping tool that uses Python libraries like requests, BeautifulSoup, and pandas to extract table data from a website. First, it fetches the HTML content of a webpage using requests.get. Then, it parses the content with BeautifulSoup to identify tables with the class wikitable. Each extracted table is converted into a DataFrame using pandas.read_html. Finally, these tables can be saved as CSV files for further analysis. This code is highly useful for collecting structured data from web pages.<br>
 To view the file <b>[English README.md](SmallProjects/WebScripts/FindTable/FindTable_English.md)</b> and <b>[Persian README.md](SmallProjects/WebScripts/FindTable/FindTable_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/WebScripts/FindTable/FindTable_English.py)</b>.
+2. <b>Web Scraper :</b>
+
 <hr>
 
 # Tools

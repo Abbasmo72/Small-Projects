@@ -17,7 +17,7 @@ This code is designed to send a request to a website and extract specific data f
    - The text of each (h1) tag is retrieved from the list and printed.
 
 ## Summary of Functionality
-This code fetches a webpage, checks the response, and if successful, extracts and prints all <h1> headings from the page.
+This code fetches a webpage, checks the response, and if successful, extracts and prints all (h1) headings from the page.
 
 ## Python Code
 ```python

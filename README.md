@@ -28,6 +28,7 @@ To view the file <b>[English README.md](SmallProjects/NetworkUtilities/GetIP/Get
 To view the file <b>[English README.md](SmallProjects/NetworkUtilities/SSLShield/SSLShield_ٍEnglish.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/SSLShield/SSLShield_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/SSLShield/SSLShield_ٍEnglish.py)</b>.
 3. <b>NetSpeed :</b>This Python script measures the network bandwidth by calculating the download and upload speeds. It uses psutil to get the initial and updated network statistics, then calculates the difference in bytes received and sent over a 1-second interval. The results are printed in kilobytes per second. The script also tracks the time taken to measure the bandwidth for performance insight.<br>
 To view the file <b>[English README.md](SmallProjects/NetworkUtilities/NetSpeed/NetSpeed_English.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/NetSpeed/NetSpeed_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/NetSpeed/NetSpeed_English.py)</b>.
+4. <b>Net Monitor :<b>
 <hr>
 
 # System Oprations

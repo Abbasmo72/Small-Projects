@@ -18,7 +18,7 @@ This code is a simple network traffic monitoring tool that calculates and displa
            - Display Results: Prints the results in a formatted table.
            - Update Previous Stats: Updates the baseline stats for the next iteration.
 
-### Python Code
+## Python Code
 ```python
 import psutil  # Module to interact with system information, including network stats
 import time  # Module to handle timing and delays

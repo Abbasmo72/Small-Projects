@@ -92,4 +92,6 @@ To view the file <b>[English README.md](SmallProjects/Tools/TimeCode/TimeCode_En
 ### 9. <b>Timer :</b>
 The countdown_timer function creates a countdown from the given seconds, displaying the remaining time in MM:SS format every second. Once the time runs out, it shows the message "Time's up!".<br>
 To view the file <b>[English README.md](SmallProjects/Tools/Timer/Timer_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/Timer/Timer_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/Timer/Timer_English.py)</b>.
+### 10. Safe Pass Generator
+
 <hr>

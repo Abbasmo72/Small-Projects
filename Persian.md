@@ -54,32 +54,41 @@
 برای مشاهده فایل <b>[English README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_English.md)</b> و <b>[Persian README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.py)</b>.
 <hr>
 
-## اسکریپت های وب
+# اسکریپت های وب
 1. اسخراج جداول(از هر سایت با فرمت CSV): این کد یک ابزار وب‌اسکرپینگ ساده است که با استفاده از کتابخانه‌های پایتون مانند requests، BeautifulSoup و pandas، اطلاعات موجود در جداول یک وبسایت را استخراج می‌کند. ابتدا، با استفاده از requests.get محتوای HTML صفحه را دریافت می‌کند. سپس با BeautifulSoup این محتوا تجزیه شده و جداول دارای کلاس wikitable شناسایی می‌شوند. هر جدول استخراج شده به کمک pandas.read_html به یک DataFrame تبدیل می‌شود. در نهایت، این جداول می‌توانند برای تحلیل‌های بیشتر به فایل‌های CSV تبدیل شوند. این کد برای جمع‌آوری داده‌های ساختارمند از صفحات وب بسیار کاربردی است.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/WebScripts/FindTable/FindTable_English.md)</b> و <b>[Persian README.md](SmallProjects/WebScripts/FindTable/FindTable_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/WebScripts/FindTable/FindTable_Persian.py)</b>.
 2. استخراج تگ عنوان از یک سایت: این کد با ارسال یک درخواست HTTP به آدرس مشخص‌شده، محتوای HTML صفحه وب را دریافت می‌کند و اگر درخواست موفقیت‌آمیز باشد، با استفاده از کتابخانه BeautifulSoup محتوای HTML را تحلیل کرده و تمام تگ‌های (h1) را استخراج می‌کند و سپس متن این تگ‌ها را نمایش می‌دهد.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/WebScripts/WebScraper/WebScraper_English.md)</b> و <b>[Persian README.md](SmallProjects/WebScripts/WebScraper/WebScraper_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/WebScripts/WebScraper/WebScraper_Persian.py)</b>.
 <hr>
 
-## ابزار
-1. نمایش تاریخ: این کد از کاربر می‌خواهد تا سال و ماه مورد نظر را وارد کند و سپس یک شیء از کلاس TextCalendar با شروع هفته از روز یکشنبه ایجاد می‌کند. با استفاده از متد formatmonth، تقویم ماهانه به صورت متنی تولید می‌شود و در نهایت تقویم تولید شده برای مشاهده کاربر چاپ می‌گردد. تابع display_calendar برای اجرای کل فرآیند فراخوانی می‌شود.<br>
+# ابزار
+### 1. نمایش تاریخ: 
+این کد از کاربر می‌خواهد تا سال و ماه مورد نظر را وارد کند و سپس یک شیء از کلاس TextCalendar با شروع هفته از روز یکشنبه ایجاد می‌کند. با استفاده از متد formatmonth، تقویم ماهانه به صورت متنی تولید می‌شود و در نهایت تقویم تولید شده برای مشاهده کاربر چاپ می‌گردد. تابع display_calendar برای اجرای کل فرآیند فراخوانی می‌شود.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/CalViewer/CalViewer_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/CalViewer/CalViewer_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/CalViewer/CalViewer_Persian.py)</b>.
-2. پیداکردن اطلاعات کشورها: این کد با استفاده از کتابخانه countryinfo اطلاعات جامعی درباره یک کشور ارائه می‌دهد. ابتدا نام کشور را از کاربر دریافت می‌کند و سپس اطلاعات مختلف از جمله پایتخت، جمعیت، مساحت، منطقه جغرافیایی، زبان‌ها، واحد پول و کشورهای همسایه را از کتابخانه بازیابی کرده و به صورت چاپ شده نمایش می‌دهد.<br>
+### 2. پیداکردن اطلاعات کشورها: 
+این کد با استفاده از کتابخانه countryinfo اطلاعات جامعی درباره یک کشور ارائه می‌دهد. ابتدا نام کشور را از کاربر دریافت می‌کند و سپس اطلاعات مختلف از جمله پایتخت، جمعیت، مساحت، منطقه جغرافیایی، زبان‌ها، واحد پول و کشورهای همسایه را از کتابخانه بازیابی کرده و به صورت چاپ شده نمایش می‌دهد.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/CountryInfoFinder/CountryInfoFinder_Persian.py)</b>.
-3. وظیفه روزانه: این برنامه یک مدیریت‌کننده وظایف ساده است که وظایف را در یک فایل JSON ذخیره می‌کند و امکان افزودن وظایف جدید شامل نام، تاریخ سررسید و وضعیت تکمیل را فراهم می‌کند. کاربر می‌تواند تمامی وظایف را مشاهده کرده، وضعیت تکمیل آن‌ها را تغییر دهد و در صورت نیاز وظایف را حذف کند. تغییرات اعمال‌شده به صورت خودکار در فایل ذخیره می‌شوند و برنامه از طریق یک منوی اصلی مدیریت می‌شود که گزینه‌های مختلفی را برای عملیات روی وظایف ارائه می‌دهد.<br>
+### 3. وظیفه روزانه: 
+این برنامه یک مدیریت‌کننده وظایف ساده است که وظایف را در یک فایل JSON ذخیره می‌کند و امکان افزودن وظایف جدید شامل نام، تاریخ سررسید و وضعیت تکمیل را فراهم می‌کند. کاربر می‌تواند تمامی وظایف را مشاهده کرده، وضعیت تکمیل آن‌ها را تغییر دهد و در صورت نیاز وظایف را حذف کند. تغییرات اعمال‌شده به صورت خودکار در فایل ذخیره می‌شوند و برنامه از طریق یک منوی اصلی مدیریت می‌شود که گزینه‌های مختلفی را برای عملیات روی وظایف ارائه می‌دهد.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/DailyTasker/DailyTasker_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/DailyTasker/DailyTasker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/DailyTasker/DailyTasker_Persian.py)</b>.
-4. جعل داده ها: این کد با استفاده از کتابخانه Faker داده‌های ساختگی مختلفی مانند نام، آدرس، متن، ایمیل، کشور، مختصات جغرافیایی و URL تولید و چاپ می‌کند. این ابزار برای تست و شبیه‌سازی در پروژه‌های نرم‌افزاری مفید است.<br>
+### 4. جعل داده ها: 
+این کد با استفاده از کتابخانه Faker داده‌های ساختگی مختلفی مانند نام، آدرس، متن، ایمیل، کشور، مختصات جغرافیایی و URL تولید و چاپ می‌کند. این ابزار برای تست و شبیه‌سازی در پروژه‌های نرم‌افزاری مفید است.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/DataFaker/DataFaker_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/DataFaker/DataFaker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/DataFaker/DataFaker_Persian.py)</b>.
-5. یادداشت ساده: این برنامه یک اپلیکیشن یادداشت‌برداری ساده است که از فایل notes.txt برای ذخیره و مدیریت یادداشت‌ها استفاده می‌کند. کاربر می‌تواند یادداشت جدید اضافه کند، یادداشت‌های موجود را مشاهده کند یا یک یادداشت را حذف کند. یادداشت‌ها در یک حلقه منو تعاملی مدیریت می‌شوند و تغییرات در فایل ذخیره می‌شوند. اگر فایل یادداشت وجود نداشته باشد، برنامه آن را ایجاد می‌کند. گزینه‌های موجود شامل اضافه کردن، مشاهده، حذف و خروج از برنامه هستند. <br>
+### 5. یادداشت ساده: 
+این برنامه یک اپلیکیشن یادداشت‌برداری ساده است که از فایل notes.txt برای ذخیره و مدیریت یادداشت‌ها استفاده می‌کند. کاربر می‌تواند یادداشت جدید اضافه کند، یادداشت‌های موجود را مشاهده کند یا یک یادداشت را حذف کند. یادداشت‌ها در یک حلقه منو تعاملی مدیریت می‌شوند و تغییرات در فایل ذخیره می‌شوند. اگر فایل یادداشت وجود نداشته باشد، برنامه آن را ایجاد می‌کند. گزینه‌های موجود شامل اضافه کردن، مشاهده، حذف و خروج از برنامه هستند. <br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/EasyPad/EasyPad_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/EasyPad/EasyPad_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/EasyPad/EasyPad_Persian.py)</b>.
-6. ردیاب سیاره: این کد موقعیت یک سیاره را نسبت به مکان رصدخانه گرینویچ در زمان فعلی با استفاده از ماژول‌های Astropy محاسبه و نمایش می‌دهد با دریافت نام سیاره از کاربر، موقعیت سیاره به صورت صعود مستقیم (RA) و میل (Dec) ارائه می‌شود.<br>
+### 6. ردیاب سیاره: 
+این کد موقعیت یک سیاره را نسبت به مکان رصدخانه گرینویچ در زمان فعلی با استفاده از ماژول‌های Astropy محاسبه و نمایش می‌دهد با دریافت نام سیاره از کاربر، موقعیت سیاره به صورت صعود مستقیم (RA) و میل (Dec) ارائه می‌شود.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/PlanetTracker/PlanetTracker_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/PlanetTracker/PlanetTracker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/PlanetTracker/PlanetTracker_Persian.py)</b>.
-7. ساخت QR Code: این کد یک برنامه ساده به زبان پایتون برای تولید کد QR از یک آدرس وب است. ابتدا از کاربر خواسته می‌شود که آدرس وبسایت (بدون پیشوند http یا https) را وارد کند. سپس، کد به‌طور خودکار پیشوند https:// را به آدرس اضافه می‌کند تا یک URL معتبر ایجاد شود. با استفاده از ماژول qrcode، کد QR مربوط به این آدرس تولید شده و به کاربر نمایش داده می‌شود. همچنین، این کد QR به صورت یک فایل تصویری با فرمت PNG در همان دایرکتوری ذخیره می‌شود و در پایان یک پیام موفقیت به کاربر نمایش داده می‌شود.<br>
+### 7. ساخت QR Code: 
+این کد یک برنامه ساده به زبان پایتون برای تولید کد QR از یک آدرس وب است. ابتدا از کاربر خواسته می‌شود که آدرس وبسایت (بدون پیشوند http یا https) را وارد کند. سپس، کد به‌طور خودکار پیشوند https:// را به آدرس اضافه می‌کند تا یک URL معتبر ایجاد شود. با استفاده از ماژول qrcode، کد QR مربوط به این آدرس تولید شده و به کاربر نمایش داده می‌شود. همچنین، این کد QR به صورت یک فایل تصویری با فرمت PNG در همان دایرکتوری ذخیره می‌شود و در پایان یک پیام موفقیت به کاربر نمایش داده می‌شود.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/QRcode/QRcode_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/QRcode/QRcode_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/QRcode/QRcode_Persian.md)</b>.
-8. زمان اجرای کد: این کد زمان اجرای یک بخش از کد را با استفاده از ماژول time اندازه‌گیری می‌کند. زمان شروع و پایان ثبت شده و مدت زمان اجرای کد محاسبه و نمایش داده می‌شود.<br>
+### 8. زمان اجرای کد: 
+این کد زمان اجرای یک بخش از کد را با استفاده از ماژول time اندازه‌گیری می‌کند. زمان شروع و پایان ثبت شده و مدت زمان اجرای کد محاسبه و نمایش داده می‌شود.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/TimeCode/TimeCode_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/TimeCode/TimeCode_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/TimeCode/TimeCode_Persian.py)</b>.
-9. زمان سنج: تابع countdown_timer یک شمارش معکوس از ثانیه‌هایی که وارد می‌شود ایجاد می‌کند و در هر ثانیه زمان باقی‌مانده را به فرمت MM:SS نمایش می‌دهد. پس از اتمام زمان، پیغام "Time's up!" را نشان می‌دهد.<br>
+### 9. زمان سنج: 
+تابع countdown_timer یک شمارش معکوس از ثانیه‌هایی که وارد می‌شود ایجاد می‌کند و در هر ثانیه زمان باقی‌مانده را به فرمت MM:SS نمایش می‌دهد. پس از اتمام زمان، پیغام "Time's up!" را نشان می‌دهد.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/Timer/Timer_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/Timer/Timer_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/Timer/Timer_Persian.py)</b>.
-10. ساخت پسورد امن
+### 10. ساخت پسورد امن
     
 <hr>

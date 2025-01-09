@@ -18,6 +18,8 @@
 این برنامه یک واسط گرافیکی با استفاده از کتابخانه Tkinter ایجاد می‌کند که امکان بررسی صحت سینتکسی کد پایتون را فراهم می‌کند. از ماژول ast برای تجزیه و تحلیل کد و شناسایی خطاهای سینتکسی استفاده شده است و خطاهای موجود به همراه شماره خط به کاربر گزارش می‌شوند. شماره خطوط در یک جعبه متنی جداگانه نمایش داده می‌شود که به طور خودکار با هر تغییر در متن کد به‌روزرسانی می‌شود. دو جعبه متنی در قاب کناری چیده شده‌اند؛ یکی برای شماره خطوط و دیگری برای ورودی کد کاربر. با استفاده از دکمه "Check Syntax"، کاربر می‌تواند بررسی صحت کد را اجرا کرده و نتیجه را مشاهده کند.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/FileOperations/ChekCodePython/CodeCheker_English.md)</b> و <b>[Persian README.md](SmallProjects/FileOperations/ChekCodePython/CodeCheker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/FileOperations/ChekCodePython/CodeCheker_Persian.py)</b>.
 
+### 3. ادغام فایل های CSV: <br>
+
 <hr>
 
 # ابزارهای شبکه

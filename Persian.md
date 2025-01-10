@@ -19,6 +19,9 @@
 برای مشاهده فایل <b>[English README.md](SmallProjects/FileOperations/ChekCodePython/CodeCheker_English.md)</b> و <b>[Persian README.md](SmallProjects/FileOperations/ChekCodePython/CodeCheker_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/FileOperations/ChekCodePython/CodeCheker_Persian.py)</b>.
 
 ### 3. ادغام فایل های CSV: <br>
+این برنامه برای ترکیب چند فایل CSV از یک پوشه مشخص به یک فایل CSV واحد طراحی شده است. فرآیند با بررسی وجود پوشه ورودی آغاز می‌شود و سپس تمام فایل‌های CSV موجود در آن شناسایی می‌شوند. هر فایل به ترتیب با استفاده از کتابخانه pandas خوانده شده و به یک مجموعه داده‌ی واحد اضافه می‌شود، در حالی که از طریق مدیریت خطا، از سلامت داده‌ها اطمینان حاصل می‌شود. پس از پردازش موفقیت‌آمیز تمام فایل‌ها، داده‌های ترکیب‌شده در یک فایل CSV جدید که توسط کاربر مشخص شده است ذخیره می‌شوند. همچنین، پیام‌های اطلاع‌رسانی در هر مرحله ارائه می‌شوند تا کاربر از پیشرفت و مشکلات احتمالی آگاه شود و تجربه‌ای روان و کاربرپسند ایجاد گردد.<br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/FileOperations/CSVCollector/CSVCollectorEnglish.md)</b> و <b>[Persian README.md](SmallProjects/FileOperations/CSVCollector/CSVCollectorPersian.md)</b> و کد کامل <b>[Python Code](SmallProjects/FileOperations/CSVCollector/CSVCollectorPersian.py)</b>.
+
 
 <hr>
 

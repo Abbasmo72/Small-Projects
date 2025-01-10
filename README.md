@@ -20,7 +20,7 @@ This program creates a graphical interface using the Tkinter library, allowing u
 To view the file <b>[English README.md](SmallProjects/FileOperations/ChekCodePython/CodeCheker_English.md)</b> and <b>[Persian README.md](SmallProjects/FileOperations/ChekCodePython/CodeCheker_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/FileOperations/ChekCodePython/CodeCheker_English.py)</b>.
 
 ### 3. CSV Collector:<br>
-
+This program is designed to combine multiple CSV files from a specified folder into a single consolidated CSV file. The process begins by verifying the existence of the input folder and identifying all CSV files within it. Each file is then sequentially read using the pandas library and appended to a unified dataset while ensuring data integrity through proper error handling. Once all files are successfully processed, the program saves the combined data into a new CSV file specified by the user. Additionally, it provides informative messages during each step to keep the user informed of the progress and potential issues, ensuring a seamless and user-friendly experience.<br>
 
 <hr>
 

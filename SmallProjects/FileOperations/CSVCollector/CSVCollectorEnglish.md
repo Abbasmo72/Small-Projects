@@ -11,3 +11,11 @@ This program is designed to merge multiple CSV files from a specified directory 
 - <b>Flexibility:</b> The program can process an unlimited number of CSV files and handles any dataset structure effectively.
 - <b>Error Handling:</b> The use of try-except blocks ensures the program gracefully handles errors during file reading or saving, preventing abrupt crashes.
 - <b>User Feedback:</b> Step-by-step messages keep the user informed about the program’s progress, making it user-friendly even for non-technical users.
+
+## 3. Areas for Improvement
+- <b>Validation of CSV File Structures:</b> If the CSV files have inconsistent structures, errors may occur. Adding a feature to check for column consistency across files could enhance functionality.
+- <b>Duplicate Data Management:</b> Currently, the program combines all rows without checking for duplicates. Adding a mechanism to remove duplicate rows would be beneficial.
+- <b>Support for Additional Formats:</b> Expanding support to include other file formats like Excel (.xlsx) could broaden the program's use cases.
+- <b>Final Report Generation:</b> Including a summary report with details like the number of files processed, total rows and columns, and the output status would add value.
+
+## 

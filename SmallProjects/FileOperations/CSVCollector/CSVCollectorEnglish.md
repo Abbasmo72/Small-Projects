@@ -23,4 +23,5 @@ This program is designed to merge multiple CSV files from a specified directory 
 - <b>Sensor Data Collection:</b> Combining sensor data from multiple sources for statistical analysis.
 - <b>Comprehensive Reporting:</b> Consolidating reports from different teams to provide a holistic project overview.
 
-## 
+## 5. Conclusion
+This program is a simple yet effective tool for combining CSV files, making it highly suitable for data-driven projects. By implementing improvements such as data validation and duplicate row management, it can be elevated to a professional-grade utility.

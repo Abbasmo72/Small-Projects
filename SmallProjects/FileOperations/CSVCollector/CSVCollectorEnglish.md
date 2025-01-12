@@ -18,4 +18,9 @@ This program is designed to merge multiple CSV files from a specified directory 
 - <b>Support for Additional Formats:</b> Expanding support to include other file formats like Excel (.xlsx) could broaden the program's use cases.
 - <b>Final Report Generation:</b> Including a summary report with details like the number of files processed, total rows and columns, and the output status would add value.
 
+## 4. Practical Applications
+- <b>Financial Data Analysis:</b> Merging daily or monthly financial reports to identify trends.
+- <b>Sensor Data Collection:</b> Combining sensor data from multiple sources for statistical analysis.
+- <b>Comprehensive Reporting:</b> Consolidating reports from different teams to provide a holistic project overview.
+
 ## 

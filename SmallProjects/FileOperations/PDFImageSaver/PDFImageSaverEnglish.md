@@ -38,6 +38,11 @@ The program allows users to select a PDF file through a simple graphical user in
 
 ## 6. Conclusion
 This program offers a robust and straightforward solution for extracting images from PDF files. By leveraging various Python libraries, it provides flexibility and extensibility. With some enhancements, it can become an even more versatile tool for a wide range of users, from beginners to professionals.
+<hr>
 
+### Python Code
+```python
+
+```
 
 

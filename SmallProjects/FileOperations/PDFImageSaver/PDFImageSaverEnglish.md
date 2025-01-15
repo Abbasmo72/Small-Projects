@@ -25,4 +25,9 @@ The program allows users to select a PDF file through a simple graphical user in
 - Main Execution Block:
     - The script checks if it is being executed directly. If so, it initiates the file selection and image extraction process.
 
+## 4. Key Features
+- <b>User-Friendly Interface: </b>The program uses tkinter to provide a straightforward file selection dialog, making it easy to use even for beginners.
+- <b>Error Handling: </b>The program identifies and reports any errors during the image extraction process (e.g., invalid formats or file issues) without halting execution.
+- <b>Organized Output: </b>Extracted images are systematically saved in a folder named extracted_images with descriptive file names.
+
 ## 

@@ -43,8 +43,8 @@
 این اسکریپت ترافیک شبکه را با استفاده از کتابخانه psutil برای واکشی آمار شبکه و کتابخانه زمان برای کنترل زمان کنترل می کند. این تابع، monitor_network را تعریف می کند که به طور مداوم تعداد بایت های ارسال شده، دریافتی و کل بایت های منتقل شده را در فواصل زمانی منظم محاسبه و نمایش می دهد (پیش فرض 1 ثانیه است). در ابتدا، اسکریپت آمار شبکه جاری را واکشی و ذخیره می کند. در داخل یک حلقه بی نهایت، تفاوت بایت های ارسالی و دریافتی را در مقایسه با آمار قبلی محاسبه می کند، داده ها را در یک جدول قالب بندی شده چاپ می کند و آمارهای قبلی را برای تکرار بعدی به روز می کند. برنامه به طور مداوم اجرا می شود تا زمانی که به صورت دستی متوقف شود.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/NetworkUtilities/NetMonitor/NetMonitor_English.md)</b> و <b>[Persian README.md](SmallProjects/NetworkUtilities/NetMonitor/NetMonitor_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/NetworkUtilities/NetMonitor/NetMonitor_Persian.py)</b>.
 ### 5. نظارت شبکه:
-
-
+این کد برای نظارت بر ترافیک شبکه و شناسایی دسترسی‌های غیرمجاز از طریق بسته‌های شبکه نوشته شده است. از کتابخانه scapy برای دریافت و تجزیه بسته‌ها استفاده می‌کند و جزئیات هر بسته را به یک فایل JSON ذخیره می‌کند. نظارت شبکه برای مدت زمان مشخص شده در یک نخ جداگانه انجام می‌شود تا برنامه اصلی متوقف نشود. کاربر می‌تواند رابط شبکه و فیلتر بسته‌ها را به دلخواه انتخاب کند. در نهایت، زمان اجرای برنامه و محل ذخیره‌سازی لاگ‌ها نمایش داده می‌شود.<br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/NetworkUtilities/NetSniffer/NetSnifferEnglish.md)</b> و <b>[Persian README.md](SmallProjects/NetworkUtilities/NetSniffer/NetSnifferPersian.md)</b> و کد کامل <b>[Python Code](SmallProjects/NetworkUtilities/NetSniffer/NetSnifferPersian.py)</b>.
 <hr>
 
 # عملیات سیستم

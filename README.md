@@ -44,7 +44,7 @@ This script monitors network traffic using the psutil library to fetch network s
 To view the file <b>[English README.md](SmallProjects/NetworkUtilities/NetMonitor/NetMonitor_English.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/NetMonitor/NetMonitor_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/NetMonitor/NetMonitor_English.py)</b>.
 ### 5. <b>Net Sniffer :</b>
 This code is designed to monitor network traffic and detect unauthorized access through network packets. It uses the scapy library to capture and analyze packets, logging the details of each packet into a JSON file. The network monitoring runs in a separate thread for a specified duration, so the main program doesn't stop. The user can choose the network interface and packet filter. Finally, the execution time and the location of the logs are displayed.<br>
-To view the file <b>[English README.md](SmallProjects/NetworkUtilities/NetSniffer/NetMonitor_English.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/NetSniffer/NetMonitor_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/NetSniffer/NetMonitor_English.py)</b>.
+To view the file <b>[English README.md](SmallProjects/NetworkUtilities/NetSniffer/NetSnifferEnglish.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/NetSniffer/NetSnifferPersian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/NetSniffer/NetSnifferEnglish.py)</b>.
 <hr>
 
 # System Oprations

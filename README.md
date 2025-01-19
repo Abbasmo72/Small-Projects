@@ -42,6 +42,7 @@ To view the file <b>[English README.md](SmallProjects/NetworkUtilities/NetSpeed/
 ### 4. <b>Net Monitor :<b>
 This script monitors network traffic using the psutil library to fetch network statistics and the time library for timing control. It defines a function, monitor_network, which continuously calculates and displays the number of bytes sent, received, and the total bytes transferred at regular intervals (default is 1 second). Initially, the script fetches and stores the current network stats. Inside an infinite loop, it calculates the difference in sent and received bytes compared to the previous stats, prints the data in a formatted table, and updates the previous stats for the next iteration. The program runs continuously until manually stopped.<br>
 To view the file <b>[English README.md](SmallProjects/NetworkUtilities/NetMonitor/NetMonitor_English.md)</b> and <b>[Persian README.md](SmallProjects/NetworkUtilities/NetMonitor/NetMonitor_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/NetworkUtilities/NetMonitor/NetMonitor_English.py)</b>.
+### 5. <b>Net Sniffer :</b>
 
 <hr>
 

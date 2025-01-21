@@ -2,6 +2,7 @@
 This code is a script for monitoring network traffic using the scapy library. It captures and logs network packets to a JSON file, helping in detecting unauthorized access by inspecting packet details.
 <hr>
 
+## Code Breakdown:
 ### 1. Importing Libraries:
 - <b>scapy.all:</b> For network-related functions like sniff (to capture packets), get_if_list (to get a list of network interfaces), and conf (for network configuration settings).
 - <b>datetime:</b> To get the current date and time.
@@ -29,4 +30,5 @@ This code is a script for monitoring network traffic using the scapy library. It
 - Prompts the user to enter the network interface (optional), monitoring duration (in seconds), and a packet filter (optional).
 - Starts network monitoring in a separate thread and measures the execution time.
 - After the monitoring is complete, it prints the total time taken and the location of the saved logs (network_logs.json).
-### 6. 
+
+

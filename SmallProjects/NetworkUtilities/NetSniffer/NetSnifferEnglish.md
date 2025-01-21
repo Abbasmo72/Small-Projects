@@ -30,5 +30,5 @@ This code is a script for monitoring network traffic using the scapy library. It
 - Prompts the user to enter the network interface (optional), monitoring duration (in seconds), and a packet filter (optional).
 - Starts network monitoring in a separate thread and measures the execution time.
 - After the monitoring is complete, it prints the total time taken and the location of the saved logs (network_logs.json).
-
+<hr>
 

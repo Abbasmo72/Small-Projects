@@ -63,6 +63,7 @@
 ### 5. پیدا کردن فایل پایتون:
 کتابخانه‌های os و tkinter برای مدیریت فایل‌ها و ایجاد رابط گرافیکی وارد می‌شوند. تابع search_files با پیمایش دایرکتوری‌ها تمام فایل‌های با پسوند مشخص مثل .py را جستجو می‌کند. در تابع on_search_button_click، نام فایل از ورودی دریافت شده و در صورت خالی بودن هشدار داده می‌شود. سپس فایل‌های .py جستجو و مسیرهای حاوی عبارت مورد نظر فیلتر و در Listbox نمایش داده می‌شوند؛ اگر فایلی یافت نشود، پیام اطلاع‌رسانی نشان داده می‌شود. در پایان، با root.mainloop رابط کاربری اجرا شده و برنامه شروع به کار می‌کند.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_English.md)</b> و <b>[Persian README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.py)</b>.
+### 6.س
 <hr>
 
 # اسکریپت های وب

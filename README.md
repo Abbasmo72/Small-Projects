@@ -65,8 +65,7 @@ The os and tkinter libraries are imported for file management and GUI creation. 
 To view the file <b>[English README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_English.md)</b> and <b>[Persian README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_English.py)</b>.
 ### 6. <b>AutoShutdown :</b>
 The program begins by importing the os module for executing system commands and the time module for adding delays. It defines a function called schedule_shutdown, which encapsulates the logic for scheduling a system shutdown. Inside the function, the user is prompted to input the delay time in minutes. This input is then converted to seconds by multiplying it by 60. The program uses time.sleep to pause execution for the specified duration. Once the wait is complete, it checks the operating system type using the os.name attribute. If the operating system is Windows, the program runs the shutdown /s /t 1 command to shut down the system. For Linux or Mac, it executes the shutdown -h now command. If the user enters an invalid input, such as a non-numeric value, an error message is displayed, and the program gracefully exits.<br>
-
-
+To view the file <b>[English README.md](SmallProjects/SystemOprations/AutoShutdown/AutoShutdownEnglish.md)</b> and <b>[Persian README.md](SmallProjects/SystemOprations/AutoShutdown/AutoShutdownPersian.md)</b> And the complete code <b>[Python Code](SmallProjects/SystemOprations/AutoShutdown/AutoShutdownEnglish.py)</b>.
 <hr>
 
 # Web Scripts

@@ -63,7 +63,8 @@ To view the file <b>[English README.md](SmallProjects/SystemOprations/DiskSpace/
 ### 5. <b> Python FileFinder :</b>
 The os and tkinter libraries are imported for file management and GUI creation. The search_files function searches directories for files with a specific extension like .py. In the on_search_button_click function, the file name is retrieved from the input, and a warning is shown if it's empty. Then, .py files are searched, filtered for the search term, and displayed in the Listbox; if no files are found, an information message is shown. Finally, root.mainloop runs the GUI, starting the application.<br>
 To view the file <b>[English README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_English.md)</b> and <b>[Persian README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_English.py)</b>.
-### 6.
+### 6. AutoShutdown
+
 <hr>
 
 # Web Scripts

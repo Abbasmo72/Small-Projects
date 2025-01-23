@@ -63,8 +63,9 @@
 ### 5. پیدا کردن فایل پایتون:
 کتابخانه‌های os و tkinter برای مدیریت فایل‌ها و ایجاد رابط گرافیکی وارد می‌شوند. تابع search_files با پیمایش دایرکتوری‌ها تمام فایل‌های با پسوند مشخص مثل .py را جستجو می‌کند. در تابع on_search_button_click، نام فایل از ورودی دریافت شده و در صورت خالی بودن هشدار داده می‌شود. سپس فایل‌های .py جستجو و مسیرهای حاوی عبارت مورد نظر فیلتر و در Listbox نمایش داده می‌شوند؛ اگر فایلی یافت نشود، پیام اطلاع‌رسانی نشان داده می‌شود. در پایان، با root.mainloop رابط کاربری اجرا شده و برنامه شروع به کار می‌کند.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_English.md)</b> و <b>[Persian README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.py)</b>.
-### 6.خاموش شدن اتوماتیک
-
+### 6.خاموش شدن اتوماتیک:
+برنامه با وارد کردن ماژول‌های os و time شروع می‌شود که برای اجرای دستورات سیستم و افزودن تأخیر استفاده می‌شوند. یک تابع به نام schedule_shutdown تعریف شده که منطق زمان‌بندی خاموش شدن سیستم را مدیریت می‌کند. در داخل تابع، از کاربر خواسته می‌شود مدت زمان تأخیر تا خاموش شدن را به دقیقه وارد کند. این مقدار ورودی به ثانیه تبدیل می‌شود، با ضرب آن در ۶۰. برنامه با استفاده از time.sleep برای مدت زمان مشخص شده اجرای خود را متوقف می‌کند. پس از اتمام تأخیر، نوع سیستم‌عامل با استفاده از ویژگی os.name بررسی می‌شود. اگر سیستم‌عامل ویندوز باشد، دستور shutdown /s /t 1 اجرا می‌شود تا سیستم خاموش شود. برای سیستم‌عامل‌های لینوکس یا مک، از دستور shutdown -h now استفاده می‌شود. در صورت وارد کردن مقدار نامعتبر، مانند عدد غیرمجاز یا متن، پیام خطایی نمایش داده شده و برنامه به صورت ایمن متوقف می‌شود.<br>
+برای مشاهده فایل <b>[English README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_English.md)</b> و <b>[Persian README.md](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/SystemOprations/PythonFileFinder/PythonFileFinder_Persian.py)</b>.
 <hr>
 
 # اسکریپت های وب

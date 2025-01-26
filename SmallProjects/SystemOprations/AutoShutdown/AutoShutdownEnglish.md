@@ -21,5 +21,5 @@ The script allows users to specify a time delay (in minutes), after which the sy
         - For Linux/macOS, the command shutdown -h now is executed.
    - A fallback mechanism alerts the user if the operating system is unsupported.
 6. Error Handling:
-
+   - If the user provides invalid input, such as non-numeric characters, a friendly error message is displayed, and the program exits gracefully.
 

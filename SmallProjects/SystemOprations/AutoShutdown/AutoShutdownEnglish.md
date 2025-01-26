@@ -20,5 +20,6 @@ The script allows users to specify a time delay (in minutes), after which the sy
         - For Windows, it uses the command shutdown /s /t 1 to shut down the system.
         - For Linux/macOS, the command shutdown -h now is executed.
    - A fallback mechanism alerts the user if the operating system is unsupported.
+6. Error Handling:
 
 

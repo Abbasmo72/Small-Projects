@@ -23,3 +23,9 @@ The script allows users to specify a time delay (in minutes), after which the sy
 6. Error Handling:
    - If the user provides invalid input, such as non-numeric characters, a friendly error message is displayed, and the program exits gracefully.
 
+## Strengths
+- Cross-Platform Compatibility: The script supports both Windows and Unix-like systems, broadening its usability.
+- Error Handling: The implementation of exception handling (try-except) ensures the program remains robust against invalid user inputs.
+- Simplicity: The code is straightforward and easy to understand, making it accessible even to novice programmers.
+
+

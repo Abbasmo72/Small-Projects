@@ -14,5 +14,11 @@ The script allows users to specify a time delay (in minutes), after which the sy
    - Error handling is implemented to manage invalid inputs, such as non-numeric values, ensuring the program does not crash.
 4. Delay Execution:
    - The time.sleep function pauses the script's execution for the specified duration, effectively acting as a countdown..
-5. 
+5. Shutdown Logic:
+   - The script determines the operating system type using os.name.
+   - Based on the detected OS:
+        - For Windows, it uses the command shutdown /s /t 1 to shut down the system.
+        - For Linux/macOS, the command shutdown -h now is executed.
+   - A fallback mechanism alerts the user if the operating system is unsupported.
+
 

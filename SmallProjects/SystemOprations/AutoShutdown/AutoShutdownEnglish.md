@@ -12,4 +12,5 @@ The script allows users to specify a time delay (in minutes), after which the sy
 3. Conversion and Validation:
    - The input in minutes is converted into seconds to facilitate compatibility with the time.sleep function.
    - Error handling is implemented to manage invalid inputs, such as non-numeric values, ensuring the program does not crash.
-4. 
+4. Delay Execution:
+

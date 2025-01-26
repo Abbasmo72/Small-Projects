@@ -29,5 +29,5 @@ The script allows users to specify a time delay (in minutes), after which the sy
 - Simplicity: The code is straightforward and easy to understand, making it accessible even to novice programmers.
 
 ## Conclusion
-
+This Python script is a simple yet effective utility for automating system shutdowns. Its cross-platform design and error handling make it a reliable tool for scheduling power-offs. However, integrating advanced features such as cancellation and user prompts would significantly improve its functionality and user experience.
 

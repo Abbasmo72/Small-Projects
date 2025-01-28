@@ -75,7 +75,7 @@ To view the file <b>[English README.md](SmallProjects/WebScripts/FindTable/FindT
 ### 2. <b>Web Scraper :</b>
 This code uses the requests and BeautifulSoup libraries to send a request to a website and extract HTML data. It first sends an HTTP request to the specified URL and checks the response status. If the response is successful, it parses the HTML content and extracts all (hr) tags. Finally, it prints the text of the extracted tags line by line.<br>
 To view the file <b>[English README.md](SmallProjects/WebScripts/WebScraper/WebScraper_English.md)</b> and <b>[Persian README.md](SmallProjects/WebScripts/WebScraper/WebScraper_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/WebScripts/WebScraper/WebScraper_English.py)</b>.
-### 3. 
+### 3. The script imports necessary libraries like os, requests, BeautifulSoup, urljoin, and re for handling files, HTTP requests, HTML parsing, and regular expressions. It ensures the specified folder exists or creates it to save downloaded images. The HTML content of the given URL is fetched using requests and parsed with BeautifulSoup to extract <img> tags. The src attribute of each <img> tag is extracted, and relative URLs are converted to absolute ones using urljoin. Only images with .png or .jpg extensions are processed further, ensuring valid file formats. Invalid characters in file names are replaced with underscores using re.sub to prevent errors during saving. Images are downloaded with requests.get and saved in the folder with cleaned names. Finally, the script prompts the user to input a website URL and folder name, then downloads all valid images into the specified folder.<br>
 <hr>
 
 # Tools

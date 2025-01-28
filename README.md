@@ -75,6 +75,7 @@ To view the file <b>[English README.md](SmallProjects/WebScripts/FindTable/FindT
 ### 2. <b>Web Scraper :</b>
 This code uses the requests and BeautifulSoup libraries to send a request to a website and extract HTML data. It first sends an HTTP request to the specified URL and checks the response status. If the response is successful, it parses the HTML content and extracts all (hr) tags. Finally, it prints the text of the extracted tags line by line.<br>
 To view the file <b>[English README.md](SmallProjects/WebScripts/WebScraper/WebScraper_English.md)</b> and <b>[Persian README.md](SmallProjects/WebScripts/WebScraper/WebScraper_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/WebScripts/WebScraper/WebScraper_English.py)</b>.
+### 3. 
 <hr>
 
 # Tools

@@ -75,6 +75,8 @@
 ### 2. استخراج تگ عنوان از یک سایت: 
 این کد با ارسال یک درخواست HTTP به آدرس مشخص‌شده، محتوای HTML صفحه وب را دریافت می‌کند و اگر درخواست موفقیت‌آمیز باشد، با استفاده از کتابخانه BeautifulSoup محتوای HTML را تحلیل کرده و تمام تگ‌های (h1) را استخراج می‌کند و سپس متن این تگ‌ها را نمایش می‌دهد.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/WebScripts/WebScraper/WebScraper_English.md)</b> و <b>[Persian README.md](SmallProjects/WebScripts/WebScraper/WebScraper_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/WebScripts/WebScraper/WebScraper_Persian.py)</b>.
+### 3. استخراج عکس از سایت: 
+
 <hr>
 
 # ابزار

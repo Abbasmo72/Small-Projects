@@ -5,5 +5,7 @@ The provided script is a Python program designed to download images from a speci
 The script starts by asking the user for two inputs:
 - website_url: The URL of the target website
 - folder_name: The name of the folder where images will be saved
+## 2. Creating the Storage Folder
+Before downloading images, the program checks if the specified folder exists. If it doesn’t, it creates the folder using os.makedirs(folder_name).
 ## 
 

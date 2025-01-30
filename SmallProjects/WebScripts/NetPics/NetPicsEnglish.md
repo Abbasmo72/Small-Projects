@@ -11,5 +11,9 @@ Before downloading images, the program checks if the specified folder exists. If
 - The script retrieves the webpage content using requests.get(url).
 - It then parses the HTML using BeautifulSoup.
 - All <img> tags from the webpage are extracted.
+## 4. Filtering and Processing Image URLs
+- The src attribute of each image is obtained.
+- If src is missing, the script skips that image.
+- If the image URL is relative, it is converted into an absolute URL using urljoin(url, img_url).
+- Only images with .png and .jpg extensions are considered, while others are ignored.
 ## 
-

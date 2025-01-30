@@ -23,4 +23,6 @@ Before downloading images, the program checks if the specified folder exists. If
 - If an error occurs during the download, an appropriate error message is sho
 ## Conclusion
 This script is a simple yet effective tool for extracting and saving images from webpages. With some optimizations, it can be enhanced for more advanced and professional use cases.
+<hr>
 
+## Python Code

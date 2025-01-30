@@ -16,4 +16,9 @@ Before downloading images, the program checks if the specified folder exists. If
 - If src is missing, the script skips that image.
 - If the image URL is relative, it is converted into an absolute URL using urljoin(url, img_url).
 - Only images with .png and .jpg extensions are considered, while others are ignored.
+## 5. Downloading and Saving Images
+- The filename is extracted from the image URL, and invalid characters are replaced with _.
+- The image content is fetched using requests.get(img_url).content and saved to the specified folder.
+- A success message is displayed upon downloading each image.
+- If an error occurs during the download, an appropriate error message is sho
 ## 

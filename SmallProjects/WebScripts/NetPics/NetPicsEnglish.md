@@ -7,5 +7,9 @@ The script starts by asking the user for two inputs:
 - folder_name: The name of the folder where images will be saved
 ## 2. Creating the Storage Folder
 Before downloading images, the program checks if the specified folder exists. If it doesn’t, it creates the folder using os.makedirs(folder_name).
+## 3. Fetching HTML Content and Extracting Images
+- The script retrieves the webpage content using requests.get(url).
+- It then parses the HTML using BeautifulSoup.
+- All <img> tags from the webpage are extracted.
 ## 
 

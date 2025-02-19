@@ -113,5 +113,6 @@
 ### 10. ساخت پسورد امن:
 این برنامه یک رمز عبور قوی و تصادفی با طول مشخص تولید می‌کند. رمز عبور از حروف بزرگ و کوچک، اعداد و کاراکترهای خاص تشکیل شده است. از ماژول secrets برای اطمینان از تولید رمزهای تصادفی با امنیت بالا استفاده شده است.<br>
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/safe_pass_generator/Safe_Pass_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/safe_pass_generator/Safe_Pass_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/safe_pass_generator/Safe_Pass_Persian.py)</b>.
+### 11. صفحه کلید:
     
 <hr>

@@ -111,6 +111,7 @@ To view the file <b>[English README.md](SmallProjects/Tools/Timer/Timer_English.
 This program generates a strong and random password of a specified length. The password consists of uppercase and lowercase letters, digits, and special characters. The secrets module is used to ensure high-security random password generation.<br>
 To view the file <b>[English README.md](SmallProjects/Tools/safe_pass_generator/Safe_Pass_English.md)</b> and <b>[Persian README.md](SmallProjects/Tools/safe_pass_generator/Safe_Pass_Persian.md)</b> And the complete code <b>[Python Code](SmallProjects/Tools/safe_pass_generator/Safe_Pass_English.py)</b>.
 ### <b>11. KeyboardFixer :</b>
+This script takes user input and detects its language (English or Persian). It then converts the text to the correct language using a mapping dictionary. The corrected text is displayed and copied to the clipboard. Counter is used for character counting, and re.sub is used for character replacement. This tool is useful for fixing mistyped text due to incorrect keyboard settings.
 <hr>
 
 

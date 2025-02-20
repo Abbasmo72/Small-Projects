@@ -115,6 +115,6 @@
 برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/safe_pass_generator/Safe_Pass_English.md)</b> و <b>[Persian README.md](SmallProjects/Tools/safe_pass_generator/Safe_Pass_Persian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/safe_pass_generator/Safe_Pass_Persian.py)</b>.
 ### 11. صفحه کلید:
 این کد ورودی کاربر را دریافت کرده و زبان آن (انگلیسی یا فارسی) را تشخیص می‌دهد. سپس با استفاده از یک دیکشنری نگاشت، حروف متن را به زبان صحیح تبدیل می‌کند. متن اصلاح‌شده نمایش داده شده و به کلیپ‌بورد کپی می‌شود. از Counter برای شمارش حروف و re.sub برای جایگزینی کاراکترها استفاده شده است. این ابزار برای تصحیح متون اشتباه تایپ‌شده در کیبوردهای انگلیسی و فارسی مفید است.<br>
-
+برای مشاهده فایل <b>[English README.md](SmallProjects/Tools/KeyboardFixer/KeyboardFixerEnglish.md)</b> و <b>[Persian README.md](SmallProjects/Tools/KeyboardFixer/KeyboardFixerPersian.md)</b> و کد کامل <b>[Python Code](SmallProjects/Tools/KeyboardFixer/KeyboardFixerPersian.py)</b>.
     
 <hr>

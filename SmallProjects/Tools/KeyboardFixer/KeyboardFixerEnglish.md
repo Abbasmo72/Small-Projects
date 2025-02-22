@@ -1,1 +1,2 @@
-## English
+## Fixing Mistyped Text in the Wrong Language
+This code is designed to correct text that has been mistyped in the wrong keyboard language. Many users accidentally type Persian text while their keyboard is set to English (or vice versa), resulting in unreadable text. The script detects the language of the input text and converts it into the correct form using a predefined mapping. Finally, it displays the corrected text and copies it to the clipboard for ease of use.

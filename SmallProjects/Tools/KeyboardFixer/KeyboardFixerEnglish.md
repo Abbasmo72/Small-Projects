@@ -6,3 +6,7 @@ At the beginning of the script, two dictionaries are created to map characters b
 - fa_to_eng: Performs the reverse conversion, turning mistakenly typed Persian text into English.
 - Additionally, uppercase English characters are mapped as well to ensure that text with capital letters is properly converted.
 ## 2. Detecting the Language of the Text
+The function detect_language(text) determines whether the input text is in English or Persian based on character frequency.
+- If the text contains more English letters, it is classified as English.
+- If Persian letters are more frequent, the text is considered Persian.
+### How it Works:

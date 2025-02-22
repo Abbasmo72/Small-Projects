@@ -10,3 +10,6 @@ The function detect_language(text) determines whether the input text is in Engli
 - If the text contains more English letters, it is classified as English.
 - If Persian letters are more frequent, the text is considered Persian.
 ### How it Works:
+- A Counter object counts occurrences of each character in the text.
+- It then iterates through the characters to count English letters (using string.ascii_letters) and Persian letters (using the keys from fa_to_eng).
+- Finally, it returns "eng" if English characters are dominant; otherwise, it returns "fa".
